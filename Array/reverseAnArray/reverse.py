@@ -1,6 +1,6 @@
 #!/bin/python
 
-def reverseArray (arr, size):
+def reverse(arr, size):
   newArr = []
   for i in range(0, size):
 #    newArr[i] = arr[size-1-i]
@@ -14,7 +14,7 @@ def main ():
   arr = [1,2,3,4,5]
   # print(len(arr))
 
-  print (reverseArray(arr, len(arr)))
+  print (reverse(arr, len(arr)))
 
 if __name__ == "__main__":
   main()

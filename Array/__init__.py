@@ -1,2 +1,0 @@
-from .defArr import array
-

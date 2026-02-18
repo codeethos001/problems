@@ -1,0 +1,6 @@
+# Problem
+
+Rotate Array by k Positions:
+Rotate the array to the right by k positions.
+
+
